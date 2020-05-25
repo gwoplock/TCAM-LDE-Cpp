@@ -1,0 +1,2 @@
+#define VERSION_MAJOR @Tcam-Lde_VERSION_MAJOR@
+#define VERSION_MINOR @Tcam-Lde_VERSION_MINOR@
